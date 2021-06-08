@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\99__20_projects"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JS_React"
+	}
+}
